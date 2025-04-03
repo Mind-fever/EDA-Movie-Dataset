@@ -1,4 +1,4 @@
-# 📊 Exploratory Data Analysis (EDA) - IMDB Movies  
+# 📊 Exploratory Data Analysis (EDA) - Movie Dataset  
 
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre un dataset de películas de IMDB utilizando **Python, Pandas, Seaborn y Matplotlib**.  
 
@@ -18,8 +18,8 @@ El objetivo del análisis es obtener información valiosa sobre las películas, 
 ## 📌 Cómo usar este proyecto  
 1. Cloná este repositorio:  
    ```sh
-   git clone https://github.com/TU_USUARIO/EDA-IMDB-Movies.git
-   cd EDA-IMDB-Movies
+   git clone https://github.com/TU_USUARIO/EDA-Movie-Dataset.git
+   cd EDA-Movie-Dataset
    ```
 2. Instalá las dependencias necesarias:  
    ```sh
@@ -30,3 +30,4 @@ El objetivo del análisis es obtener información valiosa sobre las películas, 
    jupyter notebook
    ```
 4. Explorá los datos en el archivo **EDA_IMDB.ipynb**  
+
